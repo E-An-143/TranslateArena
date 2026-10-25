@@ -1,0 +1,58 @@
+[
+  {
+    "file": "NotoSansKR.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanskr/NotoSansKR%5Bwght%5D.ttf",
+    "sha256": "194018e6b2b293a7964f037b25c0249ce1418bc9ab3c971060a03aa57861e252",
+    "bytes": 10414588,
+    "git_blob": "b386890ba945e1f39448a6b59f20c5d194f58808"
+  },
+  {
+    "file": "NotoSansKR-OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanskr/OFL.txt",
+    "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9",
+    "bytes": 4388,
+    "git_blob": "1c9f43281b8f216c5461fe9ac729afbade7724e4"
+  },
+  {
+    "file": "NotoSansThai.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansthai/NotoSansThai%5Bwdth%2Cwght%5D.ttf",
+    "sha256": "5a1c559bb539583c8a1fd99d1c5b9491e5e14478c9cd2bd0970d5c3096cc9ef8",
+    "bytes": 218652,
+    "git_blob": "34b48ab6f74867dbfce19410a2f452abef34e3ff"
+  },
+  {
+    "file": "NotoSansThai-OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansthai/OFL.txt",
+    "sha256": "2e98fd23a52d253db8612cd5942c8f2ff4111b21d2367050fdca91d8ccc374a0",
+    "bytes": 4380,
+    "git_blob": "7fa8dcb08ce4d2667b683ac4a8e79166e44e5277"
+  },
+  {
+    "file": "NotoSansMyanmar.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansmyanmar/NotoSansMyanmar%5Bwdth%2Cwght%5D.ttf",
+    "sha256": "7abbbfbe2514105d7ce94937aee3feb2ba89b73a256c8b77b5866bd9b83e32ec",
+    "bytes": 784832,
+    "git_blob": "a7af8e405d24076f2930c0840523110b3236560b"
+  },
+  {
+    "file": "NotoSansMyanmar-OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansmyanmar/OFL.txt",
+    "sha256": "246a75859267af7da466823969d2e2b407ed8455ee5f74f4c8d63d8783be9b57",
+    "bytes": 4383,
+    "git_blob": "c94c47416f38b8ddec9f3fbc9e0241998d7823dc"
+  },
+  {
+    "file": "NotoSansLao.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanslao/NotoSansLao%5Bwdth%2Cwght%5D.ttf",
+    "sha256": "9608b94603a82d09a8038946f9775242f99e3b3459b7f1e4d5b335b578cd7ab3",
+    "bytes": 176620,
+    "git_blob": "c9e20f733b5b0c8edebc5eb9a8783dc2caa67f5a"
+  },
+  {
+    "file": "NotoSansLao-OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanslao/OFL.txt",
+    "sha256": "a42993999944845fb5af693ea678a372a053db1f0981d55e911dcfa9d330f279",
+    "bytes": 4379,
+    "git_blob": "483c04d1b6a1c1a4dce7c5a0d73c0a57da1e4fa8"
+  }
+]

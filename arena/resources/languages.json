@@ -1,0 +1,14 @@
+[
+  {"code":"zh-CN","native":"中文"},
+  {"code":"en","native":"English"},
+  {"code":"es","native":"Español"},
+  {"code":"pt","native":"Português"},
+  {"code":"fr","native":"Français"},
+  {"code":"ru","native":"Русский"},
+  {"code":"ja","native":"日本語"},
+  {"code":"de","native":"Deutsch"},
+  {"code":"ko","native":"한국어"},
+  {"code":"th","native":"ไทย"},
+  {"code":"my","native":"မြန်မာဘာသာ"},
+  {"code":"lo","native":"ລາວ"}
+]
